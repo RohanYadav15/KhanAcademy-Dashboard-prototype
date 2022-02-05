@@ -5,5 +5,5 @@ A protoype for Khan Academy SAT practice Dashboard UI. Created using flutter web
 
 
 
-Uploading dashboard 1080p small.mp4…
+https://user-images.githubusercontent.com/39578375/152629437-1339ec37-008a-460f-bb7a-84339cb96ba4.mp4
 
